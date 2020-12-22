@@ -1,3 +1,3 @@
 # Project-Euler
-Problems I have completed from the [link](https://projecteuler.net/about "Project Euler") website
+Problems I have completed from the [Project Euler](https://projecteuler.net/about "Project Euler") website
 
